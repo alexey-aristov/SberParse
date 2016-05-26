@@ -3,3 +3,5 @@
 ################################################################################
 
 /packages/Newtonsoft.Json.8.0.3
+/Sberparse/bin/Debug
+/Sberparse/obj/Debug
